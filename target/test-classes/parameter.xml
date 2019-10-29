@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+<parameter name= "Location" value="hyderabad"></parameter>
+<parameter name= "Designer" value="	abhi"></parameter>
+<parameter name= "Job" value="it"></parameter>
+  <test name="Test">
+    <classes>
+      <class name="NewTestNGpackage.Parameter"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
